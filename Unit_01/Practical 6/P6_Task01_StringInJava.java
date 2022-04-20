@@ -28,7 +28,7 @@ class StringInJava
             System.out.println(s.charAt(i));
         }
 
-        String first="Deeapnk";
+        String first="Deepank";
         String second=" Pushpad";
 
         //Add two Strings
@@ -48,7 +48,7 @@ class StringInJava
          *   If the string dosen't exist, the new string(Java is created)
          */
 
-        String fourth="Deeepank ";
+        String fourth="Deepank ";
         String fifth=new String("Pushpad");
     }
     /*
